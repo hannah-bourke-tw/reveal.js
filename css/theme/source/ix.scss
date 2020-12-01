@@ -5,31 +5,27 @@
 // ---------------------------------------------
 
 
-// Include theme-specific fonts
-// @import url(./fonts/source-sans-pro/source-sans-pro.css);
-
-
 // Override theme settings (see ../template/settings.scss)
 $backgroundColor: $ix-color-white;
 
 $mainColor: $ix-color-black;
 $headingColor: $ix-color-black;
 
-$mainFontSize: 42px;
+$mainFontSize: 1rem;
 $mainFont: $ix-font-family;;
 $headingFont: $ix-font-family;;
 $headingTextShadow: none;
 $headingLetterSpacing: normal;
 $headingTextTransform: uppercase;
-$headingFontWeight: 600;
+$headingFontWeight: $ix-font-weight-600;
 $linkColor: $ix-color-blue-dark-aa;
 $linkColorHover: lighten( $linkColor, 15% );
 $selectionBackgroundColor: lighten( $linkColor, 25% );
 
-$heading1Size: 2.5em;
-$heading2Size: 1.6em;
-$heading3Size: 1.3em;
-$heading4Size: 1.0em;
+$heading1Size: 3.5rem;
+$heading2Size: 2rem;
+$heading3Size: 1.825rem;
+$heading4Size: 1.65rem;
 
 // Change text colors against dark slide backgrounds
 @include dark-bg-text-color($ix-color-white);

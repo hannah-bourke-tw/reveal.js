@@ -3983,261 +3983,6 @@ span[ix-styles='error-message'] {
   ixColorWhite: #ffffff; }
 
 :export {
-  ixColorPurple: #6a2569;
-  ixColorMagenta: #b11c54;
-  ixColorPink: #ef5ba1;
-  ixColorRed: #ee312d;
-  ixColorOrange: #f78f31;
-  ixColorYellow: #fff450;
-  ixColorAvocado: #b5b935;
-  ixColorGreenLight: #89b77f;
-  ixColorGreenDark: #11aa58;
-  ixColorBlueLight: #80c9d2;
-  ixColorBlueMid: #26bdcf;
-  ixColorBlueDark: #1a73ba;
-  ixColorCream: #fee0c9;
-  ixColorBeige: #f0ba95;
-  ixColorBrownLight: #9e785f;
-  ixColorBrownDark: #5e3e2a;
-  ixColorGrey: #808285;
-  ixColorBlack: #000000;
-  ixColorWhite: #ffffff; }
-
-:export {
-  ixColorGrey90: #212223;
-  ixColorGrey80: #414343;
-  ixColorGrey70: #616364;
-  ixColorGrey60: #808285;
-  ixColorGrey50: #9a9c9e;
-  ixColorGrey40: #bdbec0;
-  ixColorGrey30: #e1e2e3;
-  ixColorGrey20: #e9e9ea;
-  ixColorGrey10: #f0f1f1;
-  ixColorGrey5: #f8f8f8; }
-
-:export {
-  ixColorGrey90: #212223;
-  ixColorGrey80: #414343;
-  ixColorGrey70: #616364;
-  ixColorGrey60: #808285;
-  ixColorGrey50: #9a9c9e;
-  ixColorGrey40: #bdbec0;
-  ixColorGrey30: #e1e2e3;
-  ixColorGrey20: #e9e9ea;
-  ixColorGrey10: #f0f1f1;
-  ixColorGrey5: #f8f8f8; }
-
-:export {
-  ixColorRed90: #820502;
-  ixColorRed80: #a10c09;
-  ixColorRed70: #c11612;
-  ixColorRed60: #da221e;
-  ixColorRed50: #ee312d;
-  ixColorRed40: #f6514d;
-  ixColorRed30: #fd7370;
-  ixColorRed20: #ff9895;
-  ixColorRed10: #ffbebd;
-  ixColorRed5: #ffe7e7;
-  ixColorRedAA: #da221e; }
-
-:export {
-  ixColorOrange90: #693a00;
-  ixColorOrange80: #8e4f06;
-  ixColorOrange70: #b46410;
-  ixColorOrange60: #d9791f;
-  ixColorOrange50: #f78f31;
-  ixColorOrange40: #ffa246;
-  ixColorOrange30: #ffb662;
-  ixColorOrange20: #ffca8a;
-  ixColorOrange10: #ffdfb8;
-  ixColorOrange5: #fff3e6;
-  ixColorOrangeAA: #8e4f06; }
-
-:export {
-  ixColorYellow90: #807825;
-  ixColorYellow80: #958c2c;
-  ixColorYellow70: #aaa133;
-  ixColorYellow60: #bfb53a;
-  ixColorYellow50: #d5ca41;
-  ixColorYellow40: #eadf49;
-  ixColorYellow30: #fff450;
-  ixColorYellow20: #fff896;
-  ixColorYellow10: #fffbb9;
-  ixColorYellow5: #fffddc;
-  ixColorYellowAA: #807825; }
-
-:export {
-  ixColorPink90: #96155d;
-  ixColorPink80: #b8216f;
-  ixColorPink70: #d92c81;
-  ixColorPink60: #e44491;
-  ixColorPink50: #ef5ba1;
-  ixColorPink40: #fc7cb8;
-  ixColorPink30: #ffa4cf;
-  ixColorPink20: #ffbadb;
-  ixColorPink10: #ffd1e8;
-  ixColorPink5: #ffeaf5;
-  ixColorPinkAA: #d92c81; }
-
-:export {
-  ixColorMagenta90: #6d0028;
-  ixColorMagenta80: #870536;
-  ixColorMagenta70: #9e0f44;
-  ixColorMagenta60: #b11c54;
-  ixColorMagenta50: #c22d65;
-  ixColorMagenta40: #d14176;
-  ixColorMagenta30: #e9739a;
-  ixColorMagenta20: #f8acc1;
-  ixColorMagenta10: #fcc9d6;
-  ixColorMagenta5: #ffe6eb;
-  ixColorMagentaAA: #b11c54; }
-
-:export {
-  ixColorPurple90: #380337;
-  ixColorPurple80: #560f55;
-  ixColorPurple70: #6a2569;
-  ixColorPurple60: #7c377b;
-  ixColorPurple50: #8e4b8d;
-  ixColorPurple40: #9f5e9e;
-  ixColorPurple30: #be88bd;
-  ixColorPurple20: #dab6da;
-  ixColorPurple10: #e7cde7;
-  ixColorPurple5: #f4e6f3;
-  ixColorPurpleAA: #6a2569; }
-
-:export {
-  ixColorGreenDark90: #004a11;
-  ixColorGreenDark80: #006c20;
-  ixColorGreenDark70: #008731;
-  ixColorGreenDark60: #009c44;
-  ixColorGreenDark50: #11aa58;
-  ixColorGreenDark40: #3abb69;
-  ixColorGreenDark30: #64cb7f;
-  ixColorGreenDark20: #8fdb9b;
-  ixColorGreenDark10: #bae9bd;
-  ixColorGreenDark5: #e7f8e6;
-  ixColorGreenDarkAA: #008731; }
-
-:export {
-  ixColorGreenLight90: #3b5b34;
-  ixColorGreenLight80: #4a6f41;
-  ixColorGreenLight70: #598250;
-  ixColorGreenLight60: #68945f;
-  ixColorGreenLight50: #79a66f;
-  ixColorGreenLight40: #89b77f;
-  ixColorGreenLight30: #a2c99a;
-  ixColorGreenLight20: #bcdab6;
-  ixColorGreenLight10: #d7ead3;
-  ixColorGreenLight5: #f3f9f1;
-  ixColorGreenLightAA: #4a6f41; }
-
-:export {
-  ixColorAvocado90: #666900;
-  ixColorAvocado80: #7a7e05;
-  ixColorAvocado70: #8c900e;
-  ixColorAvocado60: #9ca018;
-  ixColorAvocado50: #aaae26;
-  ixColorAvocado40: #b5b935;
-  ixColorAvocado30: #cace5e;
-  ixColorAvocado20: #dddf89;
-  ixColorAvocado10: #edeeb7;
-  ixColorAvocado5: #fafbe8;
-  ixColorAvocadoAA: #666900; }
-
-:export {
-  ixColorBlueDark90: #00386b;
-  ixColorBlueDark80: #004c8b;
-  ixColorBlueDark70: #0a60a5;
-  ixColorBlueDark60: #1a73ba;
-  ixColorBlueDark50: #3889c9;
-  ixColorBlueDark40: #589ed6;
-  ixColorBlueDark30: #79b3e1;
-  ixColorBlueDark20: #9bc8ec;
-  ixColorBlueDark10: #bfddf4;
-  ixColorBlueDark5: #e6f1fb;
-  ixColorBlueDarkAA: #1a73ba; }
-
-:export {
-  ixColorBlueMid90: #004051;
-  ixColorBlueMid80: #016277;
-  ixColorBlueMid70: #0a8298;
-  ixColorBlueMid60: #16a1b6;
-  ixColorBlueMid50: #26bdcf;
-  ixColorBlueMid40: #48cddd;
-  ixColorBlueMid30: #6cdbe8;
-  ixColorBlueMid20: #93e7f2;
-  ixColorBlueMid10: #bbf2f9;
-  ixColorBlueMid5: #e6fbfd;
-  ixColorBlueMidAA: #0a8298; }
-
-:export {
-  ixColorBlueLight90: #346b72;
-  ixColorBlueLight80: #418087;
-  ixColorBlueLight70: #4f939b;
-  ixColorBlueLight60: #5fa6af;
-  ixColorBlueLight50: #6fb8c1;
-  ixColorBlueLight40: #80c9d2;
-  ixColorBlueLight30: #98d6df;
-  ixColorBlueLight20: #b2e2ea;
-  ixColorBlueLight10: #cdeef3;
-  ixColorBlueLight5: #eaf8fb;
-  ixColorBlueLightAA: #418087; }
-
-:export {
-  ixColorBrown90: #5e3e2a;
-  ixColorBrown80: #7e5b45;
-  ixColorBrown70: #9e785f;
-  ixColorBrown60: #b98e71;
-  ixColorBrown50: #d5a483;
-  ixColorBrown40: #f0ba95;
-  ixColorBrown30: #f7cdaf;
-  ixColorBrown20: #fee0c9;
-  ixColorBrown10: #ffebdb;
-  ixColorBrown5: #fff5ed;
-  ixColorBrownAA: #5e3e2a; }
-
-:export {
-  ixColorGreyAA: #212223; }
-
-:export {
-  ixSpaceMarginXXS: 0.25rem;
-  ixSpaceMarginXS: 0.5rem;
-  ixSpaceMarginS: 0.75rem;
-  ixSpaceMarginM: 1rem;
-  ixSpaceMarginL: 1.5rem;
-  ixSpaceMarginXL: 2rem;
-  ixSpaceMarginHeading: 1.5em 0 0.5em; }
-
-:export {
-  ixSpacePaddingXXS: 0.25em;
-  ixSpacePaddingXS: 0.5em;
-  ixSpacePaddingS: 0.75em;
-  ixSpacePaddingM: 1em;
-  ixSpacePaddingL: 1.5em;
-  ixSpacePaddingXL: 2em; }
-
-:export {
-  ixColorPurple: #6a2569;
-  ixColorMagenta: #b11c54;
-  ixColorPink: #ef5ba1;
-  ixColorRed: #ee312d;
-  ixColorOrange: #f78f31;
-  ixColorYellow: #fff450;
-  ixColorAvocado: #b5b935;
-  ixColorGreenLight: #89b77f;
-  ixColorGreenDark: #11aa58;
-  ixColorBlueLight: #80c9d2;
-  ixColorBlueMid: #26bdcf;
-  ixColorBlueDark: #1a73ba;
-  ixColorCream: #fee0c9;
-  ixColorBeige: #f0ba95;
-  ixColorBrownLight: #9e785f;
-  ixColorBrownDark: #5e3e2a;
-  ixColorGrey: #808285;
-  ixColorBlack: #000000;
-  ixColorWhite: #ffffff; }
-
-:export {
   ixSpacePaddingXXS: 0.25em;
   ixSpacePaddingXS: 0.5em;
   ixSpacePaddingS: 0.75em;
@@ -4492,7 +4237,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
 :root {
   --background-color: #ffffff;
   --main-font: Open Sans, sans-serif;
-  --main-font-size: 42px;
+  --main-font-size: 1rem;
   --main-color: #000000;
   --block-margin: 20px;
   --heading-margin: 0 0 20px 0;
@@ -4504,10 +4249,10 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
   --heading-text-shadow: none;
   --heading-font-weight: 600;
   --heading1-text-shadow: none;
-  --heading1-size: 2.5em;
-  --heading2-size: 1.6em;
-  --heading3-size: 1.3em;
-  --heading4-size: 1em;
+  --heading1-size: 3.5rem;
+  --heading2-size: 2rem;
+  --heading3-size: 1.825rem;
+  --heading4-size: 1.65rem;
   --code-font: monospace;
   --link-color: #1a73ba;
   --link-color-hover: #3d9ae4;
@@ -4520,7 +4265,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
 
 .reveal {
   font-family: "Open Sans", sans-serif;
-  font-size: 42px;
+  font-size: 1rem;
   font-weight: normal;
   color: #000000; }
 
@@ -4559,16 +4304,16 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
   word-wrap: break-word; }
 
 .reveal h1 {
-  font-size: 2.5em; }
+  font-size: 3.5rem; }
 
 .reveal h2 {
-  font-size: 1.6em; }
+  font-size: 2rem; }
 
 .reveal h3 {
-  font-size: 1.3em; }
+  font-size: 1.825rem; }
 
 .reveal h4 {
-  font-size: 1em; }
+  font-size: 1.65rem; }
 
 .reveal h1 {
   text-shadow: none; }

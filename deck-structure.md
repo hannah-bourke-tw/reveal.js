@@ -9,6 +9,8 @@ Hannah Bourke & Joshua Kinal
 ThoughtWorks Front-end Community  
 03 December 2020
 
+---
+
 # WTF is _Impact X_?
 
 ThoughtWorks needed an internal design system to:
@@ -19,6 +21,8 @@ ThoughtWorks needed an internal design system to:
 - establish a set of brand guidelines that were in code and easy to implement.
 
 So the Australian beach collaborated with TechOps to produce one. And [we called it _Impact X_](https://tw-impact-x.thoughtworks-labs.net).
+
+---
 
 # Accessibility as a core principle
 
