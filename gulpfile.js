@@ -20,6 +20,7 @@ const eslint = require('gulp-eslint')
 const minify = require('gulp-clean-css')
 const connect = require('gulp-connect')
 const autoprefixer = require('gulp-autoprefixer')
+const tildeImporter = require('node-sass-tilde-importer');
 
 const root = yargs.argv.root || '.'
 const port = yargs.argv.port || 8000
@@ -156,11 +157,13 @@ gulp.task('plugins', () => {
 })
 
 gulp.task('css-themes', () => gulp.src(['./css/theme/source/*.{sass,scss}'])
-        .pipe(sass())
+        .pipe(sass({
+            importer: tildeImporter,
+            includePaths: ['./node_modules/', __dirname + '/node_modules', 'node_modules'],
+        }))
         .pipe(gulp.dest('./dist/theme')))
 
 gulp.task('css-core', () => gulp.src(['css/reveal.scss'])
-    .pipe(sass())
     .pipe(autoprefixer())
     .pipe(minify({compatibility: 'ie9'}))
     .pipe(header(banner))
